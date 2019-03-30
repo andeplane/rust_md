@@ -1,0 +1,7 @@
+[package]
+name = "md_code"
+version = "0.1.0"
+authors = ["Anders Hafreager <anders.hafreager@cognite.com>"]
+edition = "2018"
+
+[dependencies]
